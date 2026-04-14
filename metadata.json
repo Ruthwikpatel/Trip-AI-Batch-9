@@ -1,0 +1,8 @@
+{
+  "name": "Trip Autopilot",
+  "description": "Agentic AI-powered travel planning application that automatically plans, optimizes, and simulates booking trips.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
